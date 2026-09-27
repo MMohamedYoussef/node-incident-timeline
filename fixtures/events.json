@@ -1,0 +1,5 @@
+[
+  { "id": "E3", "at": "2026-09-15T10:45:00Z", "type": "RESOLVED", "note": "Cache configuration restored and checks green" },
+  { "id": "E1", "at": "2026-09-15T09:30:00Z", "type": "OPENED", "note": "Checkout latency alert fired" },
+  { "id": "E2", "at": "2026-09-15T09:50:00Z", "type": "MITIGATED", "note": "Rolled back the cache change" }
+]

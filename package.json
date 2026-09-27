@@ -1,0 +1,7 @@
+{
+  "name": "node-incident-timeline",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test", "demo": "node cli.mjs" }
+}
